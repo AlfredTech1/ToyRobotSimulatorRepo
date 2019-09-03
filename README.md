@@ -1,4 +1,4 @@
-#Welcome to TOY ROBOT SIMULATOR (03/09/2019)
+Welcome to TOY ROBOT SIMULATOR (03/09/2019)
               
 Instructions for standard input:  
               
